@@ -5,3 +5,34 @@ h1.title {
     width: 100%;
     margin-top: 10px;
 }
+.padding {
+    background-color: #f7f7f7;
+}
+.padding .card {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.subtitle {
+    font-size: 18px;
+    padding: 10px 5px;
+    line-height: 1.5em;
+    text-align: center;
+}
+.card h3 {
+    font-size: 16px;
+    padding: 10px;
+}
+.item-content span {
+    font-size: 14px;
+}
+.item-checkbox {
+    border: none;
+}
+label.item.item-input.item-floating-label {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.item-floating-label .input-label {
+    opacity: 1;
+}
